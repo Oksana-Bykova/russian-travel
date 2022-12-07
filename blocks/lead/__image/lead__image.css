@@ -1,5 +1,4 @@
 .lead__image {
   width: 100%;
-  background-image: url(../../../images/cover-trains.jpg);
-  margin: auto;
+  margin: 0 auto;
 }

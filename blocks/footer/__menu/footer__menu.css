@@ -1,7 +1,17 @@
+.footer__menu {
+  display: flex;
+  
+}
+
+@media screen and (max-width: 533px) {
+  .footer__menu {
+    flex-direction: column;
+    
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer__menu {
-    display: flex;
-    flex-direction: column;
     justify-content: space-between;
     min-height: 248px;
   }

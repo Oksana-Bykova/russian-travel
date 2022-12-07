@@ -1,7 +1,5 @@
 .page__section {
-  margin: 0;
-  margin: auto;
-  margin-bottom: 92px;
+  margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 768px) {

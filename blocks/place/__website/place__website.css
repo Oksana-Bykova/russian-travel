@@ -5,10 +5,20 @@
  align-content: end;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 641px) {
   .place__website {
-    order: -1;
     max-width: 288px;
     margin-left: 16px;
+    grid-column: 1;
+    grid-row: 2;
   }
 }
+
+/*@media screen and (max-width: 320px) {
+  .place__website {
+    max-width: 288px;
+    margin-left: 16px;
+    grid-column: 1;
+    grid-row: 2;
+  }
+}*/
