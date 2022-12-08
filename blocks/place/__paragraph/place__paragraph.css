@@ -20,17 +20,5 @@
   .place__paragraph {
     max-width: 288px;
     margin: 0 auto 25px;
-    grid-column: 1;
-    grid-row: 4;
   }
 }
-
-
-/*@media screen and (max-width: 320px) {
-  .place__paragraph {
-    max-width: 288px;
-    margin: 0 auto 25px;
-    grid-column: 1;
-    grid-row: 4;
-  }
-}*/
