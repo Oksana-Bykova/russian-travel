@@ -3,10 +3,9 @@
   
 }
 
-@media screen and (max-width: 533px) {
+@media screen and (max-width: 640px) {
   .footer__menu {
     flex-direction: column;
-    
   }
 }
 

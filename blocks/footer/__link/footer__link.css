@@ -16,7 +16,8 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 533px) {
+
+@media screen and (max-width: 320px) {
   .footer__link {
     font-size: 24px;
     line-height: 24px;
